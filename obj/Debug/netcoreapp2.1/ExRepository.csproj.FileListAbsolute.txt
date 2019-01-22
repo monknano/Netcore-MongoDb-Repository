@@ -1,0 +1,15 @@
+d:\Source\Repos\ExRepository\bin\Debug\netcoreapp2.1\ExRepository.deps.json
+d:\Source\Repos\ExRepository\bin\Debug\netcoreapp2.1\ExRepository.runtimeconfig.json
+d:\Source\Repos\ExRepository\bin\Debug\netcoreapp2.1\ExRepository.runtimeconfig.dev.json
+d:\Source\Repos\ExRepository\bin\Debug\netcoreapp2.1\ExRepository.dll
+d:\Source\Repos\ExRepository\bin\Debug\netcoreapp2.1\ExRepository.pdb
+d:\Source\Repos\ExRepository\obj\Debug\netcoreapp2.1\ExRepository.csprojAssemblyReference.cache
+d:\Source\Repos\ExRepository\obj\Debug\netcoreapp2.1\ExRepository.csproj.CoreCompileInputs.cache
+d:\Source\Repos\ExRepository\obj\Debug\netcoreapp2.1\ExRepository.RazorAssemblyInfo.cache
+d:\Source\Repos\ExRepository\obj\Debug\netcoreapp2.1\ExRepository.RazorAssemblyInfo.cs
+d:\Source\Repos\ExRepository\obj\Debug\netcoreapp2.1\ExRepository.AssemblyInfoInputs.cache
+d:\Source\Repos\ExRepository\obj\Debug\netcoreapp2.1\ExRepository.AssemblyInfo.cs
+d:\Source\Repos\ExRepository\obj\Debug\netcoreapp2.1\ExRepository.RazorTargetAssemblyInfo.cache
+d:\Source\Repos\ExRepository\obj\Debug\netcoreapp2.1\ExRepository.dll
+d:\Source\Repos\ExRepository\obj\Debug\netcoreapp2.1\ExRepository.pdb
+D:\Source\Repos\ExRepository\bin\Debug\netcoreapp2.1\ExRepository.exe
